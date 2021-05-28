@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": "{{cookiecutter.project_slug}}/README.md",
+      "options": {
+        "printWidth": 88
+      }
+    }
+  ]
+}
